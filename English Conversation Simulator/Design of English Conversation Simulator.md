@@ -2,17 +2,17 @@
 
 This tool is your personal assistant for improving your English conversation skills. Here’s how it works:
 
-## You Choose the Topic
+### You Choose the Topic
 Start by telling the simulator about a person you want to talk to or a topic you want to discuss. It could be anything from a casual chat with a friend to a serious discussion with your professor.
 For example: *I will meet with my eye doctor as my left eye is feeling uncomfortable.*
 
-## Simulated Conversations
+### Simulated Conversations
 Once you provide a topic, the simulator creates a realistic conversation for you. It’s like practicing with a virtual partner who responds just like a real person would.
 
-## Learn and Improve
+### Learn and Improve
 As you practice, the simulator helps you get better. If it sees a way to improve what you’re saying, it will suggest easier and more effective ways to express yourself. Plus, it explains these suggestions so you can learn and grow.
 
-## Gain Real Knowledge
+### Gain Real Knowledge
 Expect more than just learning expressions; gain knowledge while simulating conversations with a professor or an expert.
 
 ---
